@@ -1,0 +1,2 @@
+# Koalabr8
+Project is composed of using one game (Wingman) as a base to construct this game (Koalabr8). Koalabr8 reuses many of the file in Wingman. Koalabr8's main file to run application resides in package named koala and the file is called KoalaWorld. The objective of Koalabr8 is to save all koalas while avoiding obstacles such as TNT and saws. Use standard arrow keys to move the koalas. Game only has one level. 
